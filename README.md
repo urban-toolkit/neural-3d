@@ -3,7 +3,10 @@
 This repository contains the implementation of the approaches introduced in the work **A Neural Field-Based Approach for
 View Computation & Data Exploration in 3D Urban Environments** by Stefan Cobeli, Kazi Shahrukh Omar, Rodrigo Valença, Nivan Ferreira and Fabio Miranda.  
 
-The main method encodes visibility distributions in 3d environments(e.g., towards buildings, trees, water, or sky) and supports direct queries (computing visibility from a given viewpoint) as well as inverse queries (finding viewpoints that match desired conditions).  
+Project page: https://urbantk.org/neural-3d/  
+Preprint: https://arxiv.org/abs/2511.14742   
+
+The main method encodes visibility distributions in 3D environments (e.g., towards buildings, trees, water, or sky) and supports direct queries (computing visibility from a given viewpoint) as well as inverse queries (finding viewpoints that match desired conditions).  
 
 ![Figure 1](./figures/use-case-1_compressed.png)  
 *Example of direct queries for computing thematic visibility data associated with building facades.*
